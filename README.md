@@ -3,7 +3,9 @@
 [![Build Status](https://travis-ci.org/disintegration/letteravatar.svg?branch=master)](https://travis-ci.org/disintegration/letteravatar)
 
 Letter avatar generation for Go.
-
+git add . 
+git commit -m "avatar" 
+git push -u origin main
 ## Usage
 
 Generate a 100x100px 'A'-letter avatar:
